@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <strong>我是一名 全技术栈程序员（AI） + 产品经理  + 知识博主：. </strong>
       
 
-- ⭐️ 干货分享： <a href="https://github.com/freeleepm/freeleepm/blob/main/xiaohua-ai-qrcode.png" target="_blank">公众号『 小华同学ai 』</a> | <a href="https://space.bilibili.com/1310256434" target="_blank">B站 小华同学ai</a> | [抖音](https://www.douyin.com/user/MS4wLjABAAAA7IzP5BPMcvggm7u7WRTDtjD0_6lipNXlV7xKnnzjmbdhrCjA0NmJFuKi7RwwZFBD) | [掘金](https://juejin.cn/user/3389136900195088)
+- ⭐️ 干货分享： <a href="https://github.com/freeleepm/freeleepm/blob/main/xiaohua-ai-qrcode.png" target="_blank">公众号『 小华同学ai 』</a> | <a href="https://space.bilibili.com/1310256434" target="_blank">B站 小华同学ai</a> | [抖音](MS4wLjABAAAA7IzP5BPMcvggm7u7WRTDtjD0_6lipNXlV7xKnnzjmbdhrCjA0NmJFuKi7RwwZFBD)  | [掘金](https://juejin.cn/user/3389136900195088)
 
 </pre> 
 
