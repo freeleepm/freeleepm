@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 
 ### ⭐️ &nbsp;年度汇总
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=freeleepm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gruvbox&locale=cn" />
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeleepm&hide_title=true&hide_border=true&layout=compact&theme=gruvbox&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=freeleepm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gruvbox&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freeleepm&hide_title=true&hide_border=true&layout=compact&theme=gruvbox&locale=cn" />
 
 
 ### 🤝🏻 &nbsp;联系我们
